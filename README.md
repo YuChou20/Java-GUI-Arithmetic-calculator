@@ -4,6 +4,10 @@ A graphical calculator application built in Java using AWT. Supports basic arith
 
 ---
 
+### Why build this?
+
+This project was built as a hands-on exercise in combining Java GUI development with custom data structures and expression parsing. It showcases how lower-level components like stacks and manual parsing can be used in real applications.
+
 ## 🔧 Features
 
 - **Basic Arithmetic**: Supports `+`, `-`, `*`, `/` operations.
@@ -26,9 +30,12 @@ A graphical calculator application built in Java using AWT. Supports basic arith
 
 ---
 
-## 📸 Screenshots
+## Getting Started
+To compile and run the calculator:
+```
+javac Arithmetic_calculator.java
+java Arithmetic_calculator
+```
+Requires Java 8 or higher
 
-> *(Insert screenshot images here, such as calculator interface or demo GIFs)*
-
-```md
-![Calculator UI](https://your-image-link.com)
+---
